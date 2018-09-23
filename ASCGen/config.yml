@@ -1,0 +1,21 @@
+# In ticks!
+flow_speed: 10
+
+cobble_gen_name: "&bCobble &7Gen Block"
+cobble_gen_lore: "&7Place to start &bgenning&7! Cost Per-Place: &b$10"
+cobble_per_place_price: 10
+
+obby_gen_name: "&bObby &7Gen Block"
+obby_gen_lore: "&7Place to start &bgenning&7! Cost Per-Place: &b$10000"
+obby_per_place_price: 10000
+
+horizontal_gen_name: "&bHorizontal &7Gen Block"
+horizontal_gen_lore: "&7Place to &bstart &7genning! Cost Per-Place: &b$100"
+horizontal_per_place_price: 100
+horizontal_distance:  10
+
+messages:
+    no_inv_space: "&b&lAscendPvP &7> You you must have an empty inventory slot!"
+    not_enough_money: "&b&lAscendPvP &7> You don't have enough money to purchase that!"
+    place_success: "&b&lAscendPvP &7> Successfully placed a &bGen &7Block -&b $#pricePerGen#"
+    not_enough_money_per_place: "&b&lAscendPvP &7> You don't have enough money to place that!"
